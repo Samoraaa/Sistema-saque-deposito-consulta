@@ -14,8 +14,6 @@
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Regras de Negócio](#regras-de-negócio)
 - [Possíveis Melhorias](#possíveis-melhorias)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ---
 
