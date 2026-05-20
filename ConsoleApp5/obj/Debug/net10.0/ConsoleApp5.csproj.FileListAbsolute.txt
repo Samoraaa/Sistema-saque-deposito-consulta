@@ -1,0 +1,14 @@
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.deps.json
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.runtimeconfig.json
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.dll
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.pdb
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfoInputs.cache
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfo.cs
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.dll
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/refint/ConsoleApp5.dll
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.pdb
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.genruntimeconfig.cache
+/home/samora/RiderProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ref/ConsoleApp5.dll
