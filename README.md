@@ -126,17 +126,6 @@ Saldo insuficiente!
 
 ---
 
-## Possíveis Melhorias
-
-- [ ] Validar se o valor de depósito ou saque é maior que zero
-- [ ] Tratar entradas não numéricas com `int.TryParse` / `float.TryParse` para evitar exceções em tempo de execução
-- [ ] Formatar o saldo com `saldo.ToString("C2")` para exibir como moeda (`R$ 1.000,00`)
-- [ ] Adicionar histórico de transações da sessão
-- [ ] Refatorar a lógica para uma classe `Conta` separada
-- [ ] Implementar autenticação com senha da conta
-
----
-
 <p align="center">
   Feito com ❤️ para fins educacionais — C# e .NET
 </p>
